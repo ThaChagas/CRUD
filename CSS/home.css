@@ -1,0 +1,11 @@
+.elementos {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.logo img {
+    width: 1000px;
+}
